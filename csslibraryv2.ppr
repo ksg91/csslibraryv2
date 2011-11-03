@@ -1,0 +1,109 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=C:\wamp\www\csslibraryv2
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+csslibraryv2
+	+csslibraryv2
+		+class
+			class\classes.php
+			class\settings.php
+		index.php
+		login.php
+		comments.php
+		upload.php
+		preview.php
+		download.php
+		preview1.html
+		preview2.html
+		like.php
+		logout.php
+		admin.php
+		addcomment.php
+		user.php
+		search.php
+		copy.php
+[Open project files]
+0=class\classes.php
+1=index.php
+2=..\download\class\htmlclasses.php
+3=login.php
+4=comments.php
+5=upload.php
+6=preview1.html
+7=preview2.html
+8=preview.php
+9=like.php
+10=logout.php
+11=admin.php
+12=download.php
+13=user.php
+14=search.php
+15=style.css
+16=copy.php
+17=class\settings.php
+[Selected Project Files]
+Main=
+Selected=class\classes.php
+[class\classes.php]
+TopLine=87
+Caret=3,794
+[index.php]
+TopLine=1
+Caret=3,10
+[..\download\class\htmlclasses.php]
+TopLine=798
+Caret=3,810
+[login.php]
+TopLine=1
+Caret=93,6
+[comments.php]
+TopLine=1
+Caret=39,3
+[upload.php]
+TopLine=1
+Caret=50,3
+[preview1.html]
+TopLine=1
+Caret=1,34
+[preview2.html]
+TopLine=1
+Caret=1,34
+[preview.php]
+TopLine=1
+Caret=18,5
+[like.php]
+TopLine=1
+Caret=38,4
+[logout.php]
+TopLine=1
+Caret=31,5
+[admin.php]
+TopLine=1
+Caret=32,15
+[download.php]
+TopLine=1
+Caret=1,3
+[user.php]
+TopLine=1
+Caret=1,10
+[search.php]
+TopLine=1
+Caret=23,8
+[style.css]
+TopLine=1
+Caret=58,16
+[copy.php]
+TopLine=1
+Caret=20,9
+[class\settings.php]
+TopLine=1
+Caret=17,4

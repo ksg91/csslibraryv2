@@ -1,0 +1,411 @@
+body
+{
+	background-color: #9CAAA5;
+	color: black;
+	font-size: 1em;
+	font-family: Verdana, Geneva, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.header
+{
+	width: 770px;
+	background-color: Black;
+	background-image: url(BlackTextured.jpg);
+	background-attachment: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-bottom: 10px;
+	border-right: #B1BDB8 thin solid;
+	border-bottom: #B1BDB8 thin solid;
+}
+
+.headerLogoAndTitle
+{
+	height: 135px;
+}
+
+div.headerLogo
+{
+	float: left;
+	width: 200px;
+	background-color: #0000cc;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+div.headerLogo img
+{
+	vertical-align: bottom;
+	padding-top: 9px;
+	padding-right: 25px;
+}
+
+.headerTitle
+{
+	float: left;
+	color: White;
+	text-align: left;
+	padding-left: 10px;
+}
+
+.headerTitleName
+{
+	font-size: 11pt;
+}
+
+.headerTitleSite
+{
+	font-size: 16pt;
+	text-transform: uppercase;
+}
+
+.headerTitleSite a
+{
+	color: White;
+	text-decoration: none;
+}
+
+.headerTitleSite a:hover
+{
+	color: Yellow;
+	text-decoration: underline;
+}
+
+div.headerUtility
+{
+	float: right;
+	background-color: white;
+	text-align: center;
+	vertical-align: middle;
+}
+
+div.headerUtility img
+{
+	vertical-align: middle;
+}
+
+div.headerNavigation
+{
+	clear: both;
+	color: white;
+	font-size: 12pt;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 27px;
+	width: 770px;
+}
+
+div.headerNavigation img
+{
+	vertical-align: bottom;
+	border: 0;
+}
+
+div.headerNavigation ul
+{
+	margin: 0;
+	padding: 0;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+div.headerNavigation li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+div.headerNavigation li a
+{
+	color: Yellow;
+	text-decoration: none;
+	padding: 2px 5px 5px 5px;
+}
+
+div.headerNavigation li a:hover
+{
+	color: Black;
+	background-color: Yellow;
+}
+
+
+
+
+div.main
+{
+	width: 770px;
+	text-align: left;
+	background-color: White;
+	border-right: #B1BDB8 thin solid;
+}
+
+div.indexContents
+{
+	margin: 0;
+	padding: 20px 20px 20px 20px;
+	line-height: 1.4;
+	font-size: 10pt;
+}
+
+div.indexContents h1
+{
+	clear: both;
+	color: Blue;
+	font-weight: bold;
+	font-size: larger;
+	font-style: italic;
+	line-height: 1;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+div.seeAlso
+{
+	clear: both;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-style: italic;
+}
+
+div.seeAlso ul
+{
+	margin-top: 0;
+	font-style: normal;
+}
+
+div.thumbnail
+{
+}
+
+div.thumbnail div
+{
+	clear: both;
+	margin-top: 20px;
+}
+
+div.thumbnail img
+{
+	float: left;
+	margin: 4px 10px 0px 0px;
+	border: solid 1px Black;
+}
+
+div.thumbnail a
+{
+	font-size: larger;
+}
+
+div.projectNavBorder
+{
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	background-color: #9CAAA5;
+}
+
+div.projectNav
+{
+	background-color: #E6ECE9;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	border-right: solid black 1px;
+	border-bottom: solid black 1px;
+}
+
+div.projectNav span
+{
+	color: black;
+	font-weight: bold;
+}
+
+div.projectNav ul
+{
+	margin: 0;
+	padding-left: 10px;
+	list-style-type: none;
+	color: White;
+}
+
+div.contents
+{
+	margin: 0;
+	padding: 10px 20px 20px 20px;
+	line-height: 1.4;
+}
+
+h1
+{
+	margin-top: 0;
+	padding-top: 0;
+	line-height: 1.2;
+	color: #400000;
+}
+
+h2, h3
+{
+	color: #400000;
+}
+
+h3.book
+{
+    background-color: #99CCFF;
+    padding-left: 5px;
+}
+
+div.SquareFloat
+{
+	float: right;
+	margin: 10px 0px 10px 10px;
+}
+
+div.SquareFloatLeft
+{
+	float: left;
+	margin: 10px 10px 10px 0px;
+}
+
+div.prevnext
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: larger;
+	color: Black;
+	text-align: right;
+	padding-bottom: 20px;
+	clear: both;
+}
+
+div.prevnext span
+{
+	text-decoration: none;
+}
+
+p.imgCaption
+{
+	font-size: 9pt;
+	font-style: italic;
+	padding-top: 5px;
+	display: inline;
+}
+
+
+
+div.IllustratedLeft img
+{
+	clear: both;
+	float: left;
+	margin: 10px 10px 10px 0px;
+}
+
+div.IllustratedLeft div
+{
+	padding-top: 10px;
+	font-family: Trebuchet MS, Sans-Serif;
+}
+
+div.IllustratedLeft p
+{
+	clear: both;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.movie
+{
+}
+
+.aside
+{
+	background-color: #D2DAD7;
+	padding: 5px;
+}
+
+li.extraPadding
+{
+	padding-bottom: 20px;
+}
+
+.tableTitles
+{
+	background-color: #CCCCCC;
+	font-weight: bold;
+}
+
+.tableText
+{
+	background-color: #FFFFD5;
+}
+
+span.numberChanged
+{
+	background-color: Yellow;
+}
+
+table.classic
+{
+	background-color: #FFFFD5;
+	text-align: right;
+	border: 1px solid Black;
+	border-collapse: collapse;
+}
+
+table.classic td
+{
+	border: 1px solid Black;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+.classicTitle
+{
+	color: White;
+	background-color: Black;
+	text-align: center;
+	font-weight: bold;
+	border: 1px solid White;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+table.numberConversion
+{
+	background-color: White;
+	text-align: right;
+	border: 1px solid Black;
+	border-collapse: collapse;
+}
+
+table.numberConversion td
+{
+	border: 1px solid Black;
+	width: 50px;
+}
+
+td.numberConversionTitle
+{
+	color: White;
+	background-color: Black;
+	text-align: left;
+	border: 1px solid White;
+}
+
+.singleLineIntro
+{
+	margin-bottom: 4px;
+}
+
+.book a
+{
+	font-size: large;
+	text-decoration: none;
+}
+
+.book img
+{
+	border: none;
+}

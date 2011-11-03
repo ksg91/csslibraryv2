@@ -1,0 +1,278 @@
+body
+{
+background-color: #0b0b0b;
+color: #fff;
+vertical-align: middle;
+margin: 0;
+padding: 0;
+font-family: Arial, Verdana, Helvetica, sans-serif;
+font-size: 20px;
+margin: 0;
+}
+
+.logo
+{
+padding: 8px 0 8px 2px;
+background: url("http://csslibrary.co.cc/imgs/top-bg.png")repeat-x;
+background-position: 0 0;
+}
+
+.header
+{
+padding: 6px;
+text-shadow: rgba(000,000,000,0.6) 0 1px 0;
+font-weight:bold;
+vertical-align: middle;
+background-color: #00baff;
+color: #FFF;
+background: url("http://csslibrary.co.cc/imgs/topnav-bg.png") repeat-x;
+-moz-border-radius: 0.2em;
+-webkit-border-radius: 0.2em;
+border-radius: 0.2em;
+background-position: 0 0; 
+}
+
+.topnav a, .topnav a:visited
+{
+color: #fff;
+}
+
+.topnav a:hover, .topnav a:focus
+{
+text-shadow: rgba(000, 000, 000, 0.8) 0 1px 0;
+color: #00baff;
+}
+
+#MultiplePagesPanel span
+{
+background-color: #999999;
+-moz-border-radius: 0.2em;
+-webkit-border-radius: 0.2em;
+border-radius: 0.2em;
+border: solid 1px #747474;
+padding: 2px;
+}
+
+
+#MultiplePagesPanel a
+{
+   background-color: #fff;
+   -moz-border-radius: 0.2em;
+   -webkit-border-radius: 0.2em;
+   border-radius: 0.2em;
+   border: solid 1px #db0052;
+   padding: 2px;
+   color: #db0052;
+}
+
+
+/*Missed something!*/
+
+ul
+{
+left: 0;
+width: 100%;
+margin: 0;
+padding: 0;
+}
+
+li
+{
+margin: 0;
+padding: 4px 0 4px 0;
+list-style: none;
+vertical-align: middle;
+   -moz-border-radius: 0.2em;
+   -webkit-border-radius: 0.2em;
+   border-radius: 0.2em;
+}
+
+.listli
+{
+margin: 0;
+padding: 4px 0 4px 0;
+list-style: none;
+vertical-align: middle;
+text-align: center;
+}
+
+
+.odd
+{
+background-color: #242424;
+}
+
+.odd:hover, .odd:focus
+{
+background-color: #272727;
+}
+
+
+.even
+{
+background-color: #080808;
+}
+
+.even:hover, .even:focus
+{
+background-color: #111111;
+}
+
+
+.ratingstar:hover img, .ratingstar:focus img
+{
+margin-bottom:3px;
+}
+
+
+.msg,.title
+{
+margin-top: 5px;
+margin-right: 1px;
+margin-left: 1px;
+padding: 6px;
+font-size: 20px;
+font-weight:bold;
+text-shadow: rgba(153, 153, 153, 0.6) 0 1px;
+   -moz-border-radius: 0.2em;
+   -webkit-border-radius: 0.2em;
+    border-radius: 0.2em;
+background-color: #ecf2fa;
+color: #000;
+background: url("http://csslibrary.co.cc/imgs/bar.jpg") repeat-x;
+text-align: center;
+border: 1px solid #b1b1b2;
+}
+
+.title
+{
+text-align: left;
+}
+
+img
+{
+vertical-align:middle;
+border: 0;
+}
+
+.advert
+{
+ text-align: center;
+}
+
+.advert br
+{
+padding: 2px;
+}
+
+.footer
+{
+text-align:center;
+margin: 3px;
+padding: 3px;
+}
+
+input, button, textarea, select
+{
+font-size: inherit;
+margin: 2px;
+padding: 2px;
+}
+
+input[type="text"], input[type="file"], input[type="password"], textarea, input.text
+{
+border: solid 1px #999999;
+background-color: #fff;
+vertical-align: middle;
+   -moz-border-radius: 0.2em;
+   -webkit-border-radius: 0.2em;
+    border-radius: 0.2em;
+padding: 2px;
+}
+
+br
+{
+padding: 3px;
+}
+
+.button, a.button:visited
+{
+background-color: #fff;
+font-weight: bold;
+border: 1px solid #db0052;
+padding:2px;
+color:#db0052;
+line-height: 180%;
+   -moz-border-radius: 0.2em;
+   -webkit-border-radius: 0.2em;
+    border-radius: 0.2em;
+}
+
+
+.button:hover, .button:focus, a.button:visited:hover, a.button:visited:focus
+{
+color: #fff;
+border: solid 1px #fff;
+background-color: #db0052;
+}
+
+form,p
+{
+margin:2px;
+padding: 0;
+}
+
+a,a:visited
+{
+text-decoration: none;
+color:#00baff;
+}
+
+a:hover,a:focus
+{
+color: #db0052;
+}
+
+a.two, a.two:link, a:two:visited
+{
+text-decoration:none;
+color: #747474;
+}
+
+a.two:hover, a.two:focus
+{
+color:#999999;
+}
+
+
+.center
+{
+text-align: center;
+}
+
+.small
+{
+font-size: medium;
+}
+
+.xxsmall
+{
+font-size: small;
+vertical-align: middle;
+}
+
+.gap
+{
+padding: 10px;
+}
+
+.full
+{
+width:100%;
+}
+
+
+.warn
+{
+color: #ff0000;
+}
